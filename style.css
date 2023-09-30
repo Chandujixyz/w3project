@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* navigation bar */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    height: 100px;
+    background-color: bisque;
+    align-items: center;
+    
+}
+#logo img{
+    height: 50px;
+}
+#adiv ul{
+   display: flex;
+   list-style:none;
+   font-size: 30px;
+   justify-content: center;
+   align-items: center;
+}
+
+#otarea{
+    font-weight:bolder;
+    margin-right: 10px;
+}
+#in{
+   font-weight:bolder;
+    color: aqua;
+}
+#line{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#blog{
+   font-weight:normal;
+   color: rgb(57, 57, 57);
+}
+
+/* ------------------ */
+#bdiv ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+}
+ 
+
+#store{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.img-small{
+    margin-left: 20px;
+}
+#arch{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+#get{
+    background-color: rgb(2, 2, 55);
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px 30px;
+    
+    height: 40px;
+    width: 200px;
+
+    
+    text-align: center;
+     border-radius: 20px;
+
+
+}
+
+/* Hero Section */
+
+
+#hero{
+    display: flex;
+    justify-content: space-between;
+    height: 742px;
+    background-color: blueviolet;
+align-items: center;
+margin: 20px;
+border-radius: 30px;
+
+
+}
+
+#abc{
+    margin: 0px 30px;
+
+}
+
+#heading{
+    font-size: 40px;
+}
+
+#search{
+    margin: 15px;
+    background-color: white;
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#search h2{
+    background-color: rgb(2, 2, 55);
+    color: white;
+     margin: 10px;
+    height: 100%;
+}
+#search img{
+    margin: 10px;
+}
+#last{
+    display: flex;
+    
+}
+#last p{
+    margin: 20px;
+}
+
+/* --------------------- */
+#xyz{
+    margin: 0px 30px;
+    border:4px solid gray;
+}
+
+/* Blogs Section */
+
+#blog{
+    display: flexbox;
+    display:inline-flex;
+    border: 2px solid rgb(232, 231, 231);
+    margin: 20px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+#hand{
+     margin: 10px;
+    border-radius: 15px;
+    
+}
+
+#blogs{
+    margin: 10px;
+}
+
+#blogs, h2{
+    margin: 20px;
+     
+    
+}
+
+#p{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-size: 14px;
+    margin: 20px;
+}
+
+#ca{
+   margin: 20px; 
+}
+
+/* More blogs */
+#MoreBlog{
+    display: flex;
+    
+    
+    
+    
+    
+}
+#box{
+    border: 2px solid brown;
+    margin: 30px 10px;
+    padding: 10px 10px; 
+    border-radius: 30px;
+    display:flexbox;
+   width: auto; 
+   text-align: center;
+   justify-content: center;
+}
+
+#handings,img{
+width: auto;
+ 
+}
+
+/* footer section */
+
+#foot{
+    display: flex;
+    justify-content: space-between;
+    height: 742px;
+    background-color: blueviolet;
+align-items: center;
+margin: 20px;
+border-radius: 30px;
+    border: 2px solid gray
+}
+
+#mno{
+    margin: 20px;
+    text-align: center;
+    
+}
+
+button{
+    background: blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#x, img{
+    margin: 20px;
+    border-radius: 100px;
+}
+
